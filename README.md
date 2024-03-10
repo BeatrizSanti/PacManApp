@@ -3,7 +3,7 @@
 Um dos maiores jogos da história, surgiu com a ideia de atrair o público feminino para o mundo dos games. Em homenagem ao Dia Internacional das Mulheres, produzimos um app sobre o Pac-Man.
 
 # A aplicação
-<img src="exemplo.jpg" alt="Prévia da Aplicação">
+<img src="PacManReadme.jpeg" alt="Prévia da Aplicação">
 
 # 💻 Técnicas e Tecnologias
 - Expo
